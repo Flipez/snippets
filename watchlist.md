@@ -160,4 +160,17 @@
 <br />**Thor 2: The Dark World**
 <br />Agents of S.H.I.E.L.D - Episoden 7-??? 
 <br />Captain America - Winter Soldier
-
+<br />
+<br /># improved marvel order
+<br />Iron Man
+<br />Der unglaubliche Hulk
+<br />Iron Man 2
+<br />Thor
+<br />Captain America
+<br />The Avengers
+<br />Iron Man 3
+<br />Agents of Shield Episoden 1-7
+<br />Thor 2
+<br />Agents of Shield Episoden 8-16
+<br />Captain America 2
+<br />Agents of Shield Episoden 17-22
