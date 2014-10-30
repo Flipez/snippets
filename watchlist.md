@@ -145,22 +145,6 @@
 <br />bube, dame, könig, gras
 <br />
 <br /> # The Marvel Universe in it's correct order
-<br />**Captain America - The First Avenger**
-<br />Marvel One-Shot: Agent Carter 
-<br />**Iron Man**
-<br />**Iron Man 2**
-<br />**The Incredible Hulk**
-<br />**Marvel One-Shot: The Consultant** 
-<br />**Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer** 
-<br />**Thor**
-<br />**Avengers**
-<br />**Marvel One-Shot: Item 47** 
-<br />**Iron Man 3**
-<br />**Agents of S.H.I.E.L.D - Episoden 1-6**
-<br />**Thor 2: The Dark World**
-<br />**Agents of S.H.I.E.L.D - Episoden 7-??? **
-<br />**Captain America - Winter Soldier**
-<br />
 <br />**# improved marvel order**
 <br />**Iron Man**
 <br />**Der unglaubliche Hulk**
@@ -177,4 +161,7 @@
 <br />
 <br />Book of Eli
 <br />Das Leben des Brian
-<br /> Start Up
+<br />Start Up
+<br />Irgenwann in Mexico
+<br />Dogma
+<br />
