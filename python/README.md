@@ -1,7 +1,6 @@
 python-snippets
 ===============
-## This folder contains some python snippets
-## like configs, small scripts or plugins
+## This folder contains some python snippets like configs, small scripts or plugins
 
 ### IRCInterface.py
 ~ is a PyLoad Plugin which allows to reveice commands from a user on a IRC server.
