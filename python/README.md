@@ -7,7 +7,7 @@ python-snippets
 ~ added SSL support here
 ~ Version from PyLoad 0.4.9
 
-### flask_googlesppof.py
+### flask_googlespoof.py
 ~ is a small script that replaces the search-query 'facebook' with 'katzenbilder' in order to demonstrate the risk of MITM or missing SSL
 ~ you can use this if you are the gateway of your target. simply redirect all http traffic to flasks litening port
 
