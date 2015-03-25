@@ -1,4 +1,4 @@
-<br />Pulp Fiction
+<br />**Pulp Fiction**
 <br />Fight Club
 <br />Blade Runner
 <br />The Big Lebowski
@@ -42,7 +42,7 @@
 <br />Forrest Gump
 <br />Departed
 <br />Gladiator
-<br />Léon Der Profi
+<br />**Léon Der Profi**
 <br />Sieben
 <br />**Stirb Langsam**
 <br />Chiro's Reise ins Zauberland
@@ -66,7 +66,7 @@
 <br />**Star Wars VI**
 <br />Mulholland Drive
 <br />Fargo
-<br />Angst und Schrecken in Las Vegas
+<br />**Angst und Schrecken in Las Vegas**
 <br />Gattaca
 <br />Einer flog über das Kuckucksnest
 <br />Full Metal Jacket
@@ -89,7 +89,7 @@
 <br />28 days later
 <br />Hot Fuzz
 <br />Synecdoche, New York
-<br />Ghostbusters
+<br />**Ghostbusters**
 <br />Die Royal Tenenbaums
 <br />Chinatown
 <br />Die Ritter der Kokosnuss
@@ -127,7 +127,7 @@
 <br />Das Wandelnde Schloss
 <br />96 Hours
 <br />Der blutige Pfad Gottes
-<br />Zombieland
+<br />**Zombieland**
 <br />Gran Torino
 <br />True Grit
 <br />Toy Story 3
@@ -137,12 +137,12 @@
 <br />The Raid
 <br />**XMen Zukunft ist Vergangenheit**
 <br />**Fack ju Göhte**
-<br />Guardians of the Galaxy
+<br />**Guardians of the Galaxy**
 <br />Das Schicksal ist ein mieser Verräter.
 <br />
 <br />Babel
 <br />donnie brasco
-<br />bube, dame, könig, gras
+<br />**bube, dame, könig, gras**
 <br />
 <br /> # The Marvel Universe in it's correct order
 <br />**# improved marvel order**
