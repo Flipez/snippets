@@ -1,5 +1,5 @@
 This is my personal watchlist. Movies I already watched are **bold**. Feel free to suggest some movies to me
--
+
 - **Agents of Shield Episoden 1-7**
 - **Agents of Shield Episoden 8-16**
 - **Agents of Shield Episoden 17-22**
@@ -42,6 +42,7 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - **XMen Zukunft ist Vergangenheit**
 - **Zombieland**
 - **Zurück in die Zukunft**
+
 - 28 days later
 - 96 Hours
 - 2001: Odyssee im Weltraum
@@ -98,12 +99,15 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - Fight Club
 - Forrest Gump
 - Full Metal Jacket
+- Für ein paar Dollar mehr
+- Für eine Handvoll Dollar
 - Gattaca
 - Gladiator
 - GoodFellas
 - Gran Torino
 - Green Mile
 - Heat
+- Hexenkessel
 - Hot Fuzz
 - I am Legend.
 - Indiana Jones: Jäger des Verlorenen Schatzes
@@ -157,4 +161,5 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - V wie Vendetta
 - Wall-E
 - Watchmen
+- Wie ein wilder Stier
 - Zwei Glorreiche Halunken
