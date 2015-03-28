@@ -1,10 +1,9 @@
-This is my personal watchlist. Movies i already watched are **bold**. Feel free to suggest some movies to me
+This is my personal watchlist. Movies I already watched are **bold**. Feel free to suggest some movies to me
 -
 - **Agents of Shield Episoden 1-7**
 - **Agents of Shield Episoden 8-16**
 - **Agents of Shield Episoden 17-22**
 - **American History X**
-- **Angst und Schrecken in Las Vegas**
 - **Batman: The Dark Knight**
 - **Black Hawk Down**
 - **bube, dame, könig, gras**
@@ -16,6 +15,7 @@ This is my personal watchlist. Movies i already watched are **bold**. Feel free 
 - **Der unglaubliche Hulk**
 - **Django Unchained**
 - **Fack ju Göhte**
+- **Fear and Loathing in Las Vegas**
 - **Ghostbusters**
 - **Guardians of the Galaxy**
 - **Herr der Ringe: Die Rückkehr des Königs**
@@ -42,7 +42,6 @@ This is my personal watchlist. Movies i already watched are **bold**. Feel free 
 - **XMen Zukunft ist Vergangenheit**
 - **Zombieland**
 - **Zurück in die Zukunft**
-- 
 - 28 days later
 - 96 Hours
 - 2001: Odyssee im Weltraum
@@ -66,7 +65,6 @@ This is my personal watchlist. Movies i already watched are **bold**. Feel free 
 - Citizen Kane
 - City of God
 - Das fünfte Element
-- Das Leben des Brian
 - Das Leben des Brian
 - Das Schicksal ist ein mieser Verräter.
 - Das Schweigen der Lämmer
