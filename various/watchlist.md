@@ -42,7 +42,6 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - **XMen Zukunft ist Vergangenheit**
 - **Zombieland**
 - **Zurück in die Zukunft**
-
 - 28 days later
 - 96 Hours
 - 2001: Odyssee im Weltraum
