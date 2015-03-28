@@ -29,6 +29,7 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - **No Country For Old Men**
 - **Prestige - Meister der Magie**
 - **Pulp Fiction**
+- **Reservoir Dogs**
 - **Starship Troopers**
 - **Star Wars IV**
 - **Star Wars V**
@@ -114,7 +115,7 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - Irgenwann in Mexico
 - Jurassic Park
 - Kick Ass
-- Kill Bill
+- Kill Bill 1 + 2
 - Lawrence von Arabien
 - Lost in Tanslation
 - Lucky Number Slevin
@@ -126,7 +127,6 @@ This is my personal watchlist. Movies I already watched are **bold**. Feel free 
 - Pan's Labyrinth
 - Prinzessin Mononoke
 - Requiem For a Dream
-- Reservoir Dogs
 - Scarface
 - Schindlers Liste
 - Scott Pilgrim gegen den Rest der Welt
