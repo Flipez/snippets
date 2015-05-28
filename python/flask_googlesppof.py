@@ -7,39 +7,36 @@ app.debug = True
 
 @app.route('/')
 @app.route('/search')
+@app.route('/webhp')
 def index():
     query = request.args.get('q')
 
-    if query:
-        #build url from query to nosslgoogle
-        url = 'http://216.239.32.20/search?q=%s' % (query,)
-
+    if query == "facebook":
+        url = 'http://173.194.32.247/search?q=katzenbabys'
         a = urllib.request.urlopen(getRequest(url))
+        return doMagic(a.readall().decode('utf-8'))
 
-        return setFacebookFoobar(a.readall().decode('utf-8'))
+    if query:
+        url = 'http://173.194.32.247/search?q=%s' % (query.replace(" ", "+"),)
+        a = urllib.request.urlopen(getRequest(url))
+        return doMagic(a.readall().decode('utf-8'))
 
-    #if there is no argument q, deliver main page
-    return urllib.request.urlopen('http://216.239.32.20/').readall()
+    resource = urllib.request.urlopen('http://173.194.32.247/')
+    content = resource.read().decode(resource.headers.get_content_charset())
+    return re.sub('action="[^"]+','action="/', content)
 
-def setFacebookFoobar(content):
-        body = re.sub('[Ff]acebook', 'foobar', content)
+## replace https with http to force a plain request
+#
+def doMagic(content):
+        body = re.sub('href="https:', 'href="http:', content)
         return body
 
-
+## set user agent
+#
 def getRequest( url ):
-     # fake user agent to prevent 403
-     req = urllib.request.Request(
-        url,
-        data=None,
-        headers={
-           'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36'
-        }
-     )
+     req = urllib.request.Request(url,data=None,
+        headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36'})
      return req
-
-def getimages():
-    return urllib.request.urlopen('http://216.239.32.20' + request.path).readall()
-
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
